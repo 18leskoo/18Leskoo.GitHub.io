@@ -123,11 +123,12 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
+	body{
   background-image: url(http://www.techagesite.com/free-blog-backgrounds/hd-desktop-amazing-island-1920x1080-background.jpg);
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background-color: #lightGray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
