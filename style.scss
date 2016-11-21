@@ -301,9 +301,9 @@ footer {
   .read-more {
 	  text-transform: uppercase;
     font
-	  padding: 20px;
+	  padding: 20px 0;
+	}
   text-align: center{
-}
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
