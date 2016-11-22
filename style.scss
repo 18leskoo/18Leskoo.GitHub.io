@@ -16,9 +16,10 @@
 html {
   font-size: 100%;
 }
+
 body {	
-background-image: url(http://hddesktopwallpapers.in/wp-content/uploads/2015/09/aurora-borealis-wallpaper.jpg)
-  font; 18px/1.4 $helvetica{
+background-image: url("http://hddesktopwallpapers.in/wp-content/uploads/2015/09/aurora-borealis-wallpaper.jpg");
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -27,7 +28,7 @@ background-image: url(http://hddesktopwallpapers.in/wp-content/uploads/2015/09/a
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background-color: rgba(0,255,204,0.3)
+  background-color: rgba(0,255,204,0.3);
 }
 
 h1, h2, h3, h4, h5, h6 {
