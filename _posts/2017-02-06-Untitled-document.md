@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: week two
 layout: post
 author: oskar.leskow
 permalink: /untitled-document/
